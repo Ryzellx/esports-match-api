@@ -1,0 +1,4 @@
+node_modules/
+.domain_state.json
+*.log
+.env
